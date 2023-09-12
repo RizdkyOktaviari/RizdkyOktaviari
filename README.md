@@ -25,7 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=RizdkyOktaviari&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📌 Holopin
-[![@RizdkyOktaviari's Holopin board](https://holopin.me/RizdkyOktaviari)](https://holopin.io/@RizdkyOktaviari)
+[![@RizdkyOktaviari's Holopin board](https://holopin.me/RizdkyOktaviari)](https://holopin.io/@RizdkyOktaviari#badges)
 
 ![](https://komarev.com/ghpvc/?username=RizdkyOktaviari)
 
