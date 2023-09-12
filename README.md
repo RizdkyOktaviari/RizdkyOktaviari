@@ -26,7 +26,9 @@
 
 <!-- ## 📌 Holopin
 [![@RizdkyOktaviari's Holopin board](https://holopin.me/RizdkyOktaviari)](https://holopin.io/@RizdkyOktaviari#badges) -->
+  ## 🛠 Badges
 
+  [![@rizdkyoktaviari's Holopin board](https://holopin.me/rizdkyoktaviari)](https://holopin.io/@rizdkyoktaviari)
 ![](https://komarev.com/ghpvc/?username=RizdkyOktaviari)
 
 <!--
